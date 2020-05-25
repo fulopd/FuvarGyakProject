@@ -25,7 +25,7 @@ namespace FuvarGyakProject
             repo.FizetesiModokStatisztika();
 
             //6. feladat
-            Console.Write("6. feladat: " + repo.OsszMegtettKilometer() + "km");
+            Console.WriteLine("6. feladat: " + repo.OsszMegtettKilometer() + "km");
 
             //7. feladat
             Console.WriteLine("7. feladat: Leghosszabb fuvar:");
